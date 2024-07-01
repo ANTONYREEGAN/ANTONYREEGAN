@@ -54,5 +54,5 @@ I am a Computer Science student with a strong interest in Python development and
 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/u/AntonyReegan/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ANTONYREEGAN)](https://leetcode.com/u/AntonyReegan/)
 
